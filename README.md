@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **erduan.yousif@medieinstitutet.se**
 
-- 📄 Know about my experiences [Contact for resume!](Contact for resume!)
+- 📄 Want to know about my experiences? [Contact for resume!]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
