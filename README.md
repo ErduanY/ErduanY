@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript, React, Vue and MongoDB**
 
-- 📫 How to reach me **erduan.yousif@medieinstitutet.se**
+- 📫 How to reach me **erduan.yousif@gmail.com**
 
 - 📄 Want to know about my experiences? [Contact for resume!]
 
